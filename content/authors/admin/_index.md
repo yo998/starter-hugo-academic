@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hanyu Zhu was born in Chongqing,China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
