@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: undergraduate\n2
+role: undergraduate(Basic Medical Sciences/Software Engineering)
 
 # Organizations/Affiliations to show in About widget
 organizations:
