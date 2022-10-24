@@ -29,15 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in
+    - course: PhD in Computer Science
       institution: A
-      year: 20
-    - course: MEng in 
-      institution: B
-      year: 20
+      year: 2029
+    - course: BEng in Software Engineering
+      institution: Sichuan University
+      year: 2024(expected)
     - course: BMed in Basic Medical Sciences
       institution: Sichuan University
-      year: 2024
+      year: 2024(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,12 +47,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
