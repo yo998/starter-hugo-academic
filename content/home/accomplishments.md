@@ -25,27 +25,28 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
+    date_start: '2021-02'
+    description: Meritorious Winner(top 9%)
+    organization: organization1
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling(MCM/ICM)
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    date_start: '2021-09'
+    description: the third prize
+    organization: organization2
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    title: Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
+    date_end: ''
+    date_start: '2021-06'
+    description: 'the second prize(preliminary round)'
+    organization: organization3
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: The National Competition for undergraduate on Innovation Research & Experimental Design in Basic
+Medical Sciences, China
     url: ''
 
 design:
