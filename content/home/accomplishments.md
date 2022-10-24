@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-02'
+    date_start: '2021-02-01'
     description: 'Meritorious Winner(top 9%)'
     organization: 'organization1'
     organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-09'
+    date_start: '2021-09-01'
     description: 'the third prize'
     organization: 'organization2'
     organization_url: https://www.edx.org
@@ -41,7 +41,7 @@ item:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: ''
-    date_start: '2021-06'
+    date_start: '2021-06-01'
     description: 'the second prize(preliminary round)'
     organization: 'organization3'
     organization_url: https://www.datacamp.com
