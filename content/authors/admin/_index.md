@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position/tagline
 role: undergraduate
-Basic Medical Sciences/Software Engineering
+  Basic Medical Sciences/Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
