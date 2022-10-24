@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hanyu Zhu(朱函宇)
+title: Hanyu Zhu
 
 # Full name (for SEO)
 first_name: Hanyu
