@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: professor of artificial intelligence
+role: undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
