@@ -33,10 +33,10 @@ education:
       institution: A
       year: 2029
     - course: BEng in Software Engineering
-      institution: Sichuan University
+      institution: Sichuan University(Chengdu,Sichuan,China)
       year: 2024(expected)
     - course: BMed in Basic Medical Sciences
-      institution: Sichuan University
+      institution: Sichuan University(Chengdu,Sichuan,China)
       year: 2024(expected)
 
 # Social/Academic Networking
