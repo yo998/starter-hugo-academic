@@ -35,9 +35,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BMed in Basic Medical Sciences
+      institution: Sichuan University
+      year: 2024(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
