@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Undergraduate Student
-    company: Sichuan University, West China School of Basic Medical Sciences & Forensic Medicine
+  - title: 'Undergraduate Student'
+    company: 'Sichuan University, West China School of Basic Medical Sciences & Forensic Medicine'
     company_url: ''
     company_logo: 
     location: Chengdu, Sichuan, China
