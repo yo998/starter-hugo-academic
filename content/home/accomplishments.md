@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-02'
     description: Meritorious Winner(top 9%)
-    organization: organization1
+    organization: 'organization1'
     organization_url: https://www.coursera.org
     title: Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling(MCM/ICM)
     url: ''
@@ -35,15 +35,15 @@ item:
     date_end: ''
     date_start: '2021-09'
     description: the third prize
-    organization: organization2
+    organization: 'organization2'
     organization_url: https://www.edx.org
     title: Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: ''
     date_start: '2021-06'
-    description: 'the second prize(preliminary round)'
-    organization: organization3
+    description: the second prize(preliminary round)
+    organization: 'organization3'
     organization_url: https://www.datacamp.com
     title: The National Competition for undergraduate on Innovation Research & Experimental Design in Basic
 Medical Sciences, China
