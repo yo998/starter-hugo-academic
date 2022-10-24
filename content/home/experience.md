@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Undergraduate Student
+    company: Sichuan University, West China School of Basic Medical Sciences & Forensic Medicine
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: Chengdu, Sichuan, China
+    date_start: '2020-11'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+       Mainly engaged in the research of pathogenic microbial population genomics, pathogenic bacteria resistance
+mechanism and adaptive evolution. Using high-throughput sequencing as a tool, through bioinformatics analysis
+to explore important clinical issues such as pathogen dissemination, host adaptation and drug resistance.
 
-  - title: Professor of Semiconductor Physics
+  - title: 
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '3000-01-01'
+    date_end: '3000-12-31'
+    description: xxx
 
 design:
   columns: '2'
