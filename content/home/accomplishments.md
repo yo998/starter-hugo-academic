@@ -28,17 +28,17 @@ item:
     date_start: '2021-02-01'
     description: 'Meritorious Winner(top 9%)'
     organization: 'organization1'
-    organization_url: https://www.coursera.org
+    organization_url: https://www.comap.com/
     title: 'Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling(MCM/ICM)'
-    url: ''
+    url: 'https://www.comap.com/'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-09-01'
     description: 'the third prize'
     organization: 'organization2'
-    organization_url: https://www.edx.org
+    organization_url: http://www.mcm.edu.cn/
     title: 'Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China'
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: http://www.mcm.edu.cn/
   - certificate_url: https://www.datacamp.com
     date_end: ''
     date_start: '2021-06-01'
@@ -47,7 +47,7 @@ item:
     organization_url: https://www.datacamp.com
     title: 'The National Competition for undergraduate on Innovation Research & Experimental Design in Basic
 Medical Sciences, China'
-    url: ''
+    url: 'http://www.jcyxds.com/'
 
 design:
   columns: '2'
