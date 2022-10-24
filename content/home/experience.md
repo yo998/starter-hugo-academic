@@ -29,9 +29,7 @@ experience:
     location: Chengdu, Sichuan, China
     date_start: '2020-11'
     date_end: ''
-    description: Mainly engaged in the research of pathogenic microbial population genomics, pathogenic bacteria resistance
-mechanism and adaptive evolution. Using high-throughput sequencing as a tool, through bioinformatics analysis
-to explore important clinical issues such as pathogen dissemination, host adaptation and drug resistance.
+    description: Mainly engaged in the research of pathogenic microbial population genomics, pathogenic bacteria resistance mechanism and adaptive evolution. Using high-throughput sequencing as a tool, through bioinformatics analysis to explore important clinical issues such as pathogen dissemination, host adaptation and drug resistance.
 
   - title: '1'
     company: 'University X'
