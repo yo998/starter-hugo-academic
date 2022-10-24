@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate of Basic Medical Sciences(minor: Software Engineering)
+role: professor of artificial intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
