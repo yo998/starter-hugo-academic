@@ -28,8 +28,8 @@ content:
   email: test@example.org
   address:
     street: No.24 South Section 1, Yihuan Road
-    city:  Chengdu
-    region: Sichuan
+    city:  Chengdu, Sichuan
+    region: China
     postcode: '610065'
     country: China
     country_code: US
