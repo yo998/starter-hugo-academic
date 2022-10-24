@@ -10,7 +10,8 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: undergraduate(Basic Medical Sciences/Software Engineering)
+role: undergraduate
+Basic Medical Sciences/Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,6 +80,5 @@ highlight_name: true
 
 Hanyu Zhu was born in Chongqing,China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
