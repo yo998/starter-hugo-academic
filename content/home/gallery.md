@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle: Hanyu Zhu was born in Chongqing
+subtitle: Hanyu Zhu was born in Chongqing. Kai has a keen interest in traditional Chinese culture including calligraphy, painting, history, poems, etc. He once served as the organizer of History & Art Club during his study at Tsinghua and Beijing Jiaotong University. 
 
 design:
   columns: '1'
