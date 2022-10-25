@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: Gallery
-subtitle:
+subtitle: Hanyu Zhu was born in Chongqing
 
 design:
   columns: '1'
