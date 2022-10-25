@@ -17,7 +17,7 @@ design:
 ---
 
 I have a keen interest in traditional Chinese culture including ...
-<a href="https://www.hao123.com/">点击跳转至360浏览器页面</a>
+(<a href="https://hy88.netlify.app/uploads/demo_resume.pdf">See pictures</a>)
 <br />I also
 
 {{< gallery album="demo" >}}
