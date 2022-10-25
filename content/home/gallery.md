@@ -17,7 +17,7 @@ design:
 ---
 
 I have a keen interest in traditional Chinese culture including ...
-(<a href="https://hy88.netlify.app/uploads/demo_resume.pdf">See pictures</a>)
+(<a href="https://hy88.netlify.app/uploads/website_MiscP1.jpg">See pictures</a>)
 <br />I also
 
 {{< gallery album="demo" >}}
