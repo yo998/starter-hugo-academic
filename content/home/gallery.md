@@ -16,7 +16,6 @@ design:
   columns: '1'
 ---
 
-I have a keen interest in traditional Chinese culture including ...
-I also
+I have a keen interest in traditional Chinese culture including ...<br />I also
 
 {{< gallery album="demo" >}}
