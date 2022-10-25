@@ -17,5 +17,6 @@ design:
 ---
 
 I have a keen interest in traditional Chinese culture including ...
+I also
 
 {{< gallery album="demo" >}}
