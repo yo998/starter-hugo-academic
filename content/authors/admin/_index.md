@@ -3,8 +3,8 @@
 title: Hanyu Zhu
 
 # Full name (for SEO)
-first_name: Hanyu
-last_name: Zhu
+first_name: HANYU
+last_name: ZHU
 
 # Is this the primary user of the site?
 superuser: true
