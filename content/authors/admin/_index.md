@@ -72,7 +72,9 @@ email: ''
 highlight_name: true
 ---
 
-Hanyu Zhu was born in Chongqing,China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering.
+Hanyu Zhu was born in Chongqing,China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering. 
+I have always been fascinated by computer science and the impact it has on the world we live in. To gain a better understanding of computer science, I chose software engineering as a minor.
+As a medical student interested in computer science, I have recognized the importance of computer science for medical research. For example, machine learning plays an important role in genomic data mining and protein structure prediction, which is crucial for “precision medicine”.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
