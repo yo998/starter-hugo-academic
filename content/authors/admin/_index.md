@@ -22,10 +22,10 @@ bio: My research interests include XXX.
 
 # Interests to show in About widget
 interests:
-  - Computational Biology and Bioinformatics
-  - Combinatorial Optimization
-  - Data Mining
-  - Machine Learning
+  - 1
+  - 2
+  - 3
+  - 4
 
 # Education to show in About widget
 education:
