@@ -29,10 +29,7 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Computer Science
-      institution: A
-      year: 2029
+ 
     - course: BEng in Software Engineering
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
