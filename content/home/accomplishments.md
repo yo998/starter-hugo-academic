@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - date_end: ''
     date_start: '2021-02-01'
-    description: 'Meritorious Winner(top 9%)'
+    description: 'Meritorious Winner (top 9%) '
     organization: ''
     organization_url: ''
     title: 'Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling(MCM/ICM)'
@@ -33,7 +33,7 @@ item:
     
   - date_end: ''
     date_start: '2021-09-01'
-    description: 'the third prize'
+    description: 'The Third Prize'
     organization: ''
     organization_url: ''
     title: 'Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China'
@@ -41,7 +41,7 @@ item:
     
   - date_end: ''
     date_start: '2021-06-01'
-    description: 'the second prize(preliminary round)'
+    description: 'The Second Prize (preliminary round) '
     organization: ''
     organization_url: ''
     title: 'The National Competition for undergraduate on Innovation Research & Experimental Design in Basic
