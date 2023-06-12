@@ -22,9 +22,10 @@ bio: My research interests include XXX.
 
 # Interests to show in About widget
 interests:
-  - machine learning
-  - data mining
-  
+  - Machine Learning
+  - Data Mining
+  - Bioinformatics
+  - Theoretical Computer Science
   
 
 # Education to show in About widget
@@ -69,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Hanyu Zhu was born in Chongqing,China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering. I have always been fascinated by computer science and the impact it has on the world we live in. To gain a better understanding of computer science, I chose software engineering as a minor.
+Hanyu Zhu was born in Chongqing, China. Now, he is an undergraduate major in basic medical sciences at Sichuan University with a minor in software engineering. I have always been fascinated by computer science and the impact it has on the world we live in. To gain a better understanding of computer science, I chose software engineering as a minor.
 <br />As a medical student interested in computer science, I have recognized the importance of computer science for medical research. For example, machine learning plays an important role in genomic data mining, protein structure prediction, clinical text mining, ect, which are crucial for “precision medicine”. I am interested in machine learning and data mining and I would like to work on algorithmic research in machine learning and its industrial applications.
 <br />I am preparing to apply for a PhD Program in Computer Science of 2024Fall.
 
