@@ -29,6 +29,7 @@ interests:
 
 # Education to show in About widget
 education:
+ courses:
     - course: BEng in Software Engineering
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
