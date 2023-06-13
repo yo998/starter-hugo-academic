@@ -39,14 +39,6 @@ item:
     title: 'Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China'
     url: http://www.mcm.edu.cn/
     
-  - date_end: ''
-    date_start: '2021-06-01'
-    description: 'The Second Prize (preliminary round) '
-    organization: ''
-    organization_url: ''
-    title: 'The National Competition for undergraduate on Innovation Research & Experimental Design in Basic
-Medical Sciences, China'
-    url: 'http://www.jcyxds.com/'
 
 design:
   columns: '2'
