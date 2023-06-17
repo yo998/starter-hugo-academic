@@ -71,8 +71,8 @@ highlight_name: true
 ---
 
 Hanyu Zhu was born in Chongqing, China. Now, he is an undergraduate at Sichuan University majoring in basic medical sciences with a dual degree in software engineering.
-<br />As a student with a background in both biomedicine and computer science, I have recognized the importance of computer science for medical research. For example, machine learning plays an important role in genomic data mining, protein structure prediction, clinical text mining, ect, which are crucial for “precision medicine”. I am interested in machine learning and data mining and I would like to work on algorithmic research in machine learning and its industrial applications.
-<br />I am preparing to apply for a PhD Program in Computer Science of 2024Fall.
+<br />As a student with a background in both biomedicine and computer science, I have recognized the importance of computer science for medical research. For example, machine learning plays an important role in genomic data mining, protein structure prediction, clinical text mining, ect, which are crucial for “precision medicine”. I am interested in machine learning and data mining and I would like to work on research in machine learning and its industrial applications in the future.
+<br />Now, I am preparing to apply for the PhD Program in Computer Science of 2024Fall.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
