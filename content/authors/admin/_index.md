@@ -31,10 +31,10 @@ interests:
 # Education to show in About widget
 education:
  courses:
-    - course: BEng in Software Engineering
+    - course: B.M. in Basic Medical Sciences
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
-    - course: BMed in Basic Medical Sciences
+    - course: B.E. in Software Engineering
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
 
