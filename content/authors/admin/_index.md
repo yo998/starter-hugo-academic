@@ -21,11 +21,7 @@ organizations:
 bio: My research interests include XXX.
 
 # Interests to show in About widget
-interests:
-  - Machine Learning
-  - Data Mining
-  - Bioinformatics
-  - Theoretical Computer Science
+
   
 
 # Education to show in About widget
