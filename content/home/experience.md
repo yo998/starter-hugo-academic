@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: 
 
-- title: 'Medical Clinical Intern'
+  - title: 'Medical Clinical Intern'
     company: 'West China Hospital of Sichuan University'
     company_url: 'http://www.wchscu.cn/Home.html'
     company_logo: 
