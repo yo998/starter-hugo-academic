@@ -30,7 +30,14 @@ experience:
     date_start: '2020-11-01'
     date_end: ''
     description: 
-
+- title: 'Medical Clinical Intern'
+    company: 'West China Hospital of Sichuan University'
+    company_url: 'http://www.wchscu.cn/Home.html'
+    company_logo: 
+    location: Chengdu, Sichuan, China
+    date_start: '2022-08-01'
+    date_end: '2022-12-20'
+    description: 
  
 
 design:
