@@ -29,7 +29,7 @@ education:
     - course: B.M. in Basic Medical Sciences
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
-    - course: B.E. in Software Engineering(Dual Degree)
+    - course: B.E. in Software Engineering
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
 
