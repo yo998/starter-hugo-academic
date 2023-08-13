@@ -44,6 +44,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -58,4 +61,3 @@ Hanyu Zhu was born in Chongqing, China. Now, I am a senior undergraduate student
 <br />Now, I am looking for a PhD position in Computer Science of 2024Fall.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
