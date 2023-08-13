@@ -66,7 +66,7 @@ email: ''
 highlight_name: true
 ---
 
-Hanyu Zhu was born in Chongqing, China. Now, I am an undergraduate at Sichuan University majoring in basic medical sciences. At the same time, I am also studying a dual degree in software engineering.
+Hanyu Zhu was born in Chongqing, China. Now, I am a senior undergraduate student at Sichuan University majoring in basic medical sciences. At the same time, I am also studying software engineering for dual degree.
 <br />As a student with a background in both biomedicine and computer science, I have recognized the importance of computer science for medical research. For example, machine learning plays an important role in genomic data mining, protein structure prediction, clinical text mining, ect. I am interested in machine learning and data mining and I would like to work on research in machine learning and its industrial applications in the future.
 <br />Now, I am looking for a PhD position in Computer Science of 2024Fall.
 
