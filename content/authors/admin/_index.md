@@ -18,11 +18,10 @@ organizations:
     url: https://www.scu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include XXX.
+
 
 # Interests to show in About widget
 
-  
 
 # Education to show in About widget
 education:
