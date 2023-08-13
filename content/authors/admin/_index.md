@@ -30,7 +30,7 @@ education:
     - course: B.M. in Basic Medical Sciences
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
-    - course: B.E. in Software Engineering
+    - course: B.E. in Software Engineering(Dual Degree)
       institution: Sichuan University (Chengdu, Sichuan, China)
       year: 2024(expected)
 
@@ -39,18 +39,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/schhp?hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
