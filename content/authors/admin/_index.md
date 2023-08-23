@@ -55,7 +55,7 @@ email: ''
 highlight_name: true
 ---
 
-Hanyu Zhu was born in Chongqing, China. Now, I am a senior undergraduate student at Sichuan University majoring in basic medical sciences. At the same time, I am also studying software engineering for dual degree. I will receive my bachelor's degree in June 2024. I plan to pursue a PhD degree to prepare myself well for my future career development. 
+Hanyu Zhu was born in Chongqing, China. Now, I am a senior undergraduate student at Sichuan University majoring in basic medical sciences. At the same time, I am also studying software engineering for dual degree. I will receive my bachelor's degree in June 2024. I plan to pursue a PhD degree in computer science to prepare myself well for my future career development. 
 <br />Now, I am looking for a PhD position in Computer Science of 2024Fall.
 
 
