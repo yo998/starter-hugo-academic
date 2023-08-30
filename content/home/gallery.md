@@ -21,10 +21,10 @@ I have a keen interest in traditional Chinese culture including music and poetry
 <br />I am also a swimmer and a chess enthusiast. I have been practicing swimming since I was 6 years old. I have participated in various swimming competitions during my school years. Swimming has shaped me into a good physical condition and strong willpower while chess has developed my ability to think logically and rigorously.
 
 <br /><br />Better than a saddle I like sandals and cane. I’d fain, in a straw cloak, spend my life in mist and rain.
-<br />（竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。）
+<br />(竹杖芒鞋轻胜马, 谁怕? 一蓑烟雨任平生.)
 <br />--<a href="https://en.wikipedia.org/wiki/Su_Shi">Su Shi</a> "calming the Waves"(called "定风波" in Chinese)
 <br />Life is just too short. I’m willing to trade meaningless fame for pleasure in subdued drinking and singing.
-<br />（青春都一饷。忍把浮名，换了浅斟低唱。）
+<br />(青春都一饷. 忍把浮名, 换了浅斟低唱.)
 <br />--<a href="https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty)">Liu Yong</a> "Hechongtian"(called "鹤冲天" in Chinese)
 <br />We may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.
 <br />--<a href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Elwood Shannon</a>
