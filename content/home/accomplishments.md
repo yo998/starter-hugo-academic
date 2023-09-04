@@ -28,7 +28,7 @@ item:
     description: 'Meritorious Winner (top 9%) '
     organization: ''
     organization_url: ''
-    title: 'Mathematical Contest in Modeling/The Interdisciplinary Contest in Modeling(MCM/ICM)'
+    title: 'Mathematical Contest in Modeling & The Interdisciplinary Contest in Modeling(MCM/ICM)'
     url: 'https://www.comap.com/'
     
   - date_end: ''
