@@ -27,11 +27,11 @@ content:
   # Contact details (edit or remove options as required)
   email: test@example.org
   address:
-    street: No.24 South Section 1, Yihuan Road
-    city:  Chengdu, Sichuan
-    region: China
-    postcode: '610065'
-    country: China
+    street:
+    city:  
+    region: 
+    postcode: 
+    country: 
     country_code: US
   coordinates:
     latitude: '37.4275'
