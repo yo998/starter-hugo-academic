@@ -22,22 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Undergraduate Research Training'
-    company: 'Sichuan University, West China School of Basic Medical Sciences & Forensic Medicine'
-    company_url: 'https://jcfy.scu.edu.cn/jcfyen/index.htm'
+  - title: ''
+    company: ''
+    company_url: ''
     company_logo: 
-    location: Chengdu, Sichuan, China
-    date_start: '2020-11-01'
+    location: 
+    date_start: ''
     date_end: ''
     description: 
 
-  - title: 'Medical Clinical Intern'
-    company: 'West China Hospital of Sichuan University'
-    company_url: 'http://www.wchscu.cn/Home.html'
+  - title: ''
+    company: ''
+    company_url: ''
     company_logo: 
-    location: Chengdu, Sichuan, China
-    date_start: '2022-08-01'
-    date_end: '2022-12-20'
+    location: 
+    date_start: ''
+    date_end: ''
     description: 
  
 
