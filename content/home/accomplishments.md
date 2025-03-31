@@ -24,20 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
-    date_start: '2021-02-01'
-    description: 'Meritorious Winner (top 9%) '
+    date_start: ''
+    description: ' '
     organization: ''
     organization_url: ''
-    title: 'Mathematical Contest in Modeling & The Interdisciplinary Contest in Modeling(MCM/ICM)'
-    url: 'https://www.comap.com/'
+    title: ''
+    url: ''
     
   - date_end: ''
-    date_start: '2021-09-01'
-    description: 'The Third Prize'
+    date_start: ''
+    description: ''
     organization: ''
     organization_url: ''
-    title: 'Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), China'
-    url: http://www.mcm.edu.cn/
+    title: ''
+    url: 
     
 
 design:
